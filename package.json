@@ -8,4 +8,10 @@
   "dependencies": {
     "express": "^4.18.2"
   }
+  {
+  "scripts": {
+    "start": "node index.js"  // change this to match your actual file
+  }
+}
+
 }
