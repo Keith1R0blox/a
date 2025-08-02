@@ -10,7 +10,7 @@
   }
   {
   "scripts": {
-    "start": "node index.js"  // change this to match your actual file
+    "start": "node node.js"  // change this to match your actual file
   }
 }
 
